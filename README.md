@@ -1,5 +1,6 @@
 ### Welcome to my prolife :p 👋
-![1_tOgakR76KLgvGOslDXuOiw](https://user-images.githubusercontent.com/91928669/178134627-600b7b56-638b-4f6b-8a4f-5dc9513c4bcc.png)
+![sn,x600-pad,600x600,f8f8f8 u2](https://user-images.githubusercontent.com/91928669/178135225-82f58d19-6cbc-41c8-934e-b1f32dca5b01.jpg)
+
 
 <!--
 **ovecats/ovecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
