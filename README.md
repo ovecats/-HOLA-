@@ -1,5 +1,5 @@
 ### Welcome to my prolife :p 👋
-https://www.queestudiar.org/wp-content/uploads/2018/10/cienciadatos-750x350.jpg
+
 ![cienciadatos-750x350](https://user-images.githubusercontent.com/91928669/178134265-9b943e1b-f499-41d4-a822-16e140c42b48.jpg)
 <!--
 **ovecats/ovecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
