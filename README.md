@@ -5,6 +5,10 @@ https://www.queestudiar.org/wp-content/uploads/2018/10/cienciadatos-750x350.jpg
 
 Here are some ideas to get you started:
 
+![cienciadatos-750x350](https://user-images.githubusercontent.com/91928669/178134265-9b943e1b-f499-41d4-a822-16e140c42b48.jpg)
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
