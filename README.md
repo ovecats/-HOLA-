@@ -1,15 +1,6 @@
 ### Welcome to my prolife :p 👋
 
-
-
-<!--
-**ovecats/ovecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# Biografía de Dr. [Nombre]
-
-¡Hola! Soy el Dr. [Nombre], un médico veterinario especializado en ganado lechero con más de 15 años de experiencia en la industria de los establos. A lo largo de mi carrera, he trabajado arduamente para garantizar la salud y el bienestar de los animales, así como para maximizar la productividad y la calidad de la leche.
+¡Hola! Soy Dany A. Tumbajulca Cruzado un médico veterinario especializado en ganado lechero con más de 15 años de experiencia en la industria de los establos. A lo largo de mi carrera, he trabajado arduamente para garantizar la salud y el bienestar de los animales, así como para maximizar la productividad y la calidad de la leche.
 
 Recientemente, he dado un giro emocionante a mi carrera y me he especializado en ciencia de datos, específicamente como data engineer. Realicé mi formación en el reconocido bootcamp "Soy Henry", donde adquirí las habilidades tecnicas en python, SQL, power BI, Linux, Docker, GCP estos conocimiento me permitieron llevar a cabo proyectos de ciencia de datos de manera eficiente y efectiva.
 
@@ -21,8 +12,17 @@ Siempre estoy buscando nuevas oportunidades para aplicar mis conocimientos y col
 
 ¡Gracias por visitar mi perfil de GitHub!
 
-[Nombre]
-Data Engineer | Médico Veterinario Especializado en Ganado Lechero
+Dany Tumbajulca
+Data Engineer | Médico Veterinario 
+
+<!--
+**ovecats/ovecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+
+
 
 
 
